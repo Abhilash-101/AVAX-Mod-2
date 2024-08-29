@@ -1,7 +1,7 @@
 
 # **AVALANCHE INTERMEDIATE MODULE 2**
 
-## **Project Title: Solidity Smart Contract for School Grading **
+## Project Title: Solidity Smart Contract for School Grading 
 
 ### **Smart Contract Interface**
 
