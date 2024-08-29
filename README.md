@@ -63,7 +63,7 @@ Follow these steps to set up and run the contract on your local machine:
 
 ### **Project Structure**
 
-- **`contracts/`**: Contains the Solidity smart contract file `Assessment.sol`.
+- **`contracts/`**: Contains the Solidity smart contract file `SchoolGradingSystem.sol`.
 - **`artifacts/`**: Stores compiled contract artifacts.
 - **`scripts/`**: Includes scripts for deploying contracts.
 - **`frontend/`**: (If applicable) Holds the front-end code for interacting with the contract.
