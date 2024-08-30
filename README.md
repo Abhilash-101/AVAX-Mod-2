@@ -1,14 +1,14 @@
 
 # **AVALANCHE INTERMEDIATE MODULE 2**
 
-## Project Title: Solidity Smart Contract for School Grading 
+## Project Title: Simple Server Store to buy Resources 
 
 ### **Smart Contract Interface**
 
 
 
 ### **Description**
-The `SchoolGradingSystem` Solidity smart contract is designed to securely manage balances for a single owner. It allows the owner to deposit, withdraw, and send Ether, with built-in checks and logging for each transaction. This project serves as an excellent example for those looking to understand the basics of smart contract development on the Ethereum blockchain.
+This is a Smart Contract Management in Solidity called Store with React as a front end for Metacrafters Assessment Module 2. It uses a preloaded account to test the functions. The website will act as Server Store and users will be able to deposit using ETH. The user can input any amount that they want to deposit in their tab and can also see their current tab. Users will also be able to purchase different types of resources with different prices for each. As the user buys resources, their point level will increase. They will be able to keep track of their point level as well all throughout their sessions.
 
 ### **Overview**
 
@@ -63,7 +63,7 @@ Follow these steps to set up and run the contract on your local machine:
 
 ### **Project Structure**
 
-- **`contracts/`**: Contains the Solidity smart contract file `SchoolGradingSystem.sol`.
+- **`contracts/`**: Contains the Solidity smart contract file `Assessment.sol`.
 - **`artifacts/`**: Stores compiled contract artifacts.
 - **`scripts/`**: Includes scripts for deploying contracts.
 - **`frontend/`**: (If applicable) Holds the front-end code for interacting with the contract.
