@@ -1,6 +1,6 @@
 import {useState, useEffect} from "react";
 import {ethers} from "ethers";
-import atm_abi from "../artifacts/contracts/Assessment.sol/Tavern.json";
+import atm_abi from "../artifacts/contracts/Assessment.sol/Store.json";
 
 export default function HomePage() {
   const [ethWallet, setEthWallet] = useState(undefined);
