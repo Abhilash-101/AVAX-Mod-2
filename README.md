@@ -9,7 +9,7 @@
 
 ### **Description**
 ![image0](https://github.com/user-attachments/assets/06df1ada-4946-47a2-bd0e-fd5cd3f47726)
-This is a Smart Contract Management in Solidity called Store with React as a front end for Metacrafters Assessment Module 2. It uses a preloaded account to test the functions. The website will act as Server Store and users will be able to deposit using ETH. The user can input any amount that they want to deposit in their tab and can also see their current tab. Users will also be able to purchase different types of resources with different prices for each. As the user buys resources, their point level will increase. They will be able to keep track of their point level as well all throughout their sessions.
+This is a Smart Contract Management in Solidity called Store with React as a front end for Metacrafters Assessment Module 2. It employs a preloaded account for the purpose of function testing. The platform is designed to operate as a Server Store, enabling users to conduct deposits utilizing ETH. Users are afforded the capability to specify any amount they wish to deposit within their designated tab and are also able to monitor their current tab balance. Furthermore, users will have the opportunity to acquire various categories of resources, each with distinct pricing structures. As users engage in the procurement of resources, their accrued point level will correspondingly elevate. They will have the ability to continuously track their point level throughout the entirety of their sessions.
 
 ### **Overview**
 
