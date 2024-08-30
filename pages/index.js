@@ -79,7 +79,7 @@ export default function HomePage() {
     }
   }
 
-  const purchasecopper = async() => {
+ const purchasecopper = async() => {
     if (atm) {
       let tx = await atm.purchase(1);
       await tx.wait();
