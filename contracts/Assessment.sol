@@ -3,7 +3,7 @@ pragma solidity ^0.8.9;
 
 //import "hardhat/console.sol";
 
-contract Store {
+contract Tavern {
     address payable public owner; 
     uint256 public tab;
     uint256 public level;
