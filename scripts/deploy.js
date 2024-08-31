@@ -8,7 +8,7 @@ const hre = require("hardhat");
 
 async function main() {
   const initTab = 1;
-  const Assessment = await hre.ethers.getContractFactory("Tavern");
+  const Assessment = await hre.ethers.getContractFactory("Store");
   const assessment = await Assessment.deploy(initTab);
   await assessment.deployed();
 
